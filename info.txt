@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+    "name"          "HUD Designer"
+    "version"       "b1.0"
+    "up_date"       "03-10-2010"
+    "author_name"   "Entoros"
+    "author_email"  ""
+    "author_url"    ""
+    "info"          "An addon that can create HUDs with a user-friendly GUI"
+}
